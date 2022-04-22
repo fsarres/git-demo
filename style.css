@@ -1,6 +1,8 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    background-color: #f1faee
 }
+
 h1 {
     background-color:  #e63946;
     color: #f1faee;
@@ -15,4 +17,5 @@ p{
     line-height: 1.7em;
     margin: 50px 80px;
     color: #1d3557;
+    font-size: 1.2em;
 }
